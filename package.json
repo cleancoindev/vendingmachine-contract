@@ -34,6 +34,6 @@
     },
     "dependencies": {
         "truffle-hdwallet-provider": "1.0.17",
-        "web3-provider-engine": "^14.1.0"
+        "web3-provider-engine": "^14.2.1"
     }
 }
